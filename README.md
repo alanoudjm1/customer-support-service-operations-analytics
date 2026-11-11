@@ -80,7 +80,3 @@ This correction demonstrates the importance of validating KPI business logic bef
 ## Project Notes
 
 Response SLA measures compliance among tickets with recorded first responses; resolution SLA measures compliance among closed tickets. Monthly ticket status reflects the recorded status grouped by creation month, not historical month-end status.
-
-## Explore the Project
-
-Download the `.pbix` file from this repository and open it using **Power BI Desktop** to explore the two dashboard pages and analytical measures.
